@@ -18,22 +18,22 @@ IBM AI Engineering Professional Certificate
 </a>
 </div> -->
 <div>
-<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%20X94PIYKQGX7X.pdf" rel="noopener noreferrer">
+<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%20X94PIYKQGX7X.pdf" target="_blank" rel="noopener noreferrer">
 IBM RAG and Agentic AI Professional Certificate
 </a>
 </div>
 <div>
-<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%20QSU7OYCA2MI7.pdf" rel="noopener noreferrer">
+<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%20QSU7OYCA2MI7.pdf" target="_blank" rel="noopener noreferrer">
 AWS Cloud Solutions Architect Professional Certificate 
 </a>
 </div>
 <div>
-<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%2029OK69IEQKI7.pdf" rel="noopener noreferrer">
+<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%2029OK69IEQKI7.pdf" target="_blank" rel="noopener noreferrer">
 AWS Generative AI Developer Advanced Professional Certificate
 </a>
 </div>
 <div>
-<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%205CFVKBJF2YAG.pdf" rel="noopener noreferrer">
+<a href="https://github.com/rshivanna/Certification-of-achievement/blob/main/Coursera%205CFVKBJF2YAG.pdf" target="_blank" rel="noopener noreferrer">
 Microsoft Generative AI Engineering Professional Certifica
 </a>
 </div>
